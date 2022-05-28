@@ -30,7 +30,7 @@ is mostly used as a reference of what would be ideal.
 
 # Current results
 
-![chart](https://github.com/spion/hashtable-latencies/blob/ed3ac5c72f47950ac7ee936365035e6095b32e31/reports/histogram.png)
+![chart](https://github.com/ajberkley/hashtable-latencies/raw/master/reports/histogram.png)
 
 # Program notes
 
